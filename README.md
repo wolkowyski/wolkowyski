@@ -33,22 +33,6 @@
 
 ---
 
-### ▸ Featured Projects
-
-* **[competitor-watch-api](https://github.com/wolkowyski/competitor-watch-api)**  
-  High-throughput competitor catalog ingestion and pricing intelligence REST service engineered with FastAPI, SQLite, disk caching, and polite scraping workflows.
-
-* **[OpenRGB Smart Bridge + BLEDOM Controller](https://github.com/wolkowyski)**  
-  Lightweight UDP network automation tool built in Python and C++ to synchronize hardware telemetry with smart LED systems over the E1.31/sACN protocol with minimal CPU overhead.
-
-* **[Lexical & Syntactic Analyzer](https://github.com/wolkowyski/TPI-SSL-2025)**  
-  Formal language compiler frontend featuring a deterministic finite automaton (DFA) tokenizer and context-free grammar parser with concrete syntax tree generation.
-
-* **[inventario-electromisiones](https://github.com/wolkowyski/inventario-electromisiones)**  
-  PrestaShop catalog extraction and synchronization desktop utility featuring concurrent request handling, structured PDF/CSV reporting, and local configuration persistence.
-
----
-
 ### ▸ GitHub Statistics
 
 <div align="center">
