@@ -31,6 +31,7 @@ I build backend systems: REST APIs, ingestion and scraping pipelines, and LLM-po
 |---|---|---|
 | [**CompetitorWatch API**](https://github.com/wolkowyski/competitor-watch-api) | Competitor catalog ingestion & pricing API: syncs 60 products in < 3 s with JWT auth, disk cache and polite scraping. *FlyRank capstone.* | FastAPI · SQLite · JWT |
 | [**Idempotency & Concurrency Demo**](https://github.com/wolkowyski/demo-idempotencia-concurrencia) | `Idempotency-Key` header (IETF draft) with request replay, plus pessimistic and optimistic locking to prevent double bookings under concurrent requests. | Java 21 · Spring Boot · PostgreSQL · Docker |
+| [**OpenRGB · BLEDOM driver**](https://github.com/wolkowyski/OpenRGB_Custom) | OpenRGB fork with a native Bluetooth LE driver for ELK-BLEDOM LED strips: reverse-engineered protocol, configurable devices, auto-reconnect and rate-limited writes. Tested on real hardware. | C++ · Qt 6 · WinRT BLE |
 | [**KernelFlow**](https://github.com/wolkowyski/KernelFlow-SO-Grupo15) | OS simulator: MVT memory with Best-Fit allocation and SRTF scheduling. Linux & Windows builds. | Python |
 | [**Linked Lists, step by step**](https://github.com/wolkowyski/listas-enlazadas-paso-a-paso) | Interactive visualizer for singly, doubly and circular linked lists with highlighted pseudocode. **[▶ Live demo](https://wolkowyski.github.io/listas-enlazadas-paso-a-paso/)** | JavaScript · HTML/CSS |
 | [**Inventario Electromisiones**](https://github.com/wolkowyski/inventario-electromisiones) | PrestaShop catalog extractor with Tkinter GUI, concurrent fetching and PDF/CSV export. | Python · Tkinter |
@@ -42,16 +43,17 @@ I build backend systems: REST APIs, ingestion and scraping pipelines, and LLM-po
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,js,html,css,postgres,sqlite,mysql,docker,linux,bash,git&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,cpp,qt,js,html,css,postgres,sqlite,mysql,docker,linux,bash,git&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
 | | |
 |---|---|
-| **Languages** | Python, Java, SQL, JavaScript, Bash |
+| **Languages** | Python, Java, C++, SQL, JavaScript, Bash |
 | **Backend** | FastAPI, Django, Spring Boot, REST, JWT, Pydantic |
 | **Data** | PostgreSQL, SQLite, MySQL, relational modeling |
 | **Frontend basics** | HTML, CSS (Flexbox, Grid), vanilla JS |
+| **Desktop & hardware** | Qt 6, Tkinter, Bluetooth LE (WinRT GATT) |
 | **Infra & tools** | Linux, Docker, Git, GitHub CLI |
 | **Applied AI** | MCP (Model Context Protocol), RAG, token/context-window optimization |
 
