@@ -1,49 +1,74 @@
-# WOLKOWYSKI, Braian Leonel
+<h1 align="center">Braian Wolkowyski</h1>
 
-**Systems Engineering Student & Backend Developer**  
-*Universidad Tecnológica Nacional (UTN FRRe) · Resistencia, Chaco, Argentina*
+<p align="center">
+  <b>Backend Developer · Information Systems Engineering student @ UTN FRRe</b><br>
+  APIs, data pipelines & applied AI — Resistencia, Chaco, Argentina 🇦🇷
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wolkowyski)
-[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:braianwolkowyski2005@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=wolkowyski&label=VIEWS&style=flat-square&color=1f6feb)](https://github.com/wolkowyski)
-
----
-
-### ▸ Background & Focus
-
-- 🎓 **Undergraduate:** Information Systems Engineering at UTN FRRe (Beca Nacional Manuel Belgrano recipient).
-- ⚙️ **Internship:** Backend AI Engineering Intern at FlyRank AI, engineering high-throughput ingestion pipelines, LLM token cost optimization layers, and agentic workflows.
-- 🛠️ **Core Focus:** Low-latency API design, deterministic parsing/automata, concurrent data extraction, and relational schema modeling.
+<p align="center">
+  <a href="https://www.linkedin.com/in/wolkowyski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:braianwolkowyski2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### ▸ Languages & Tools
+### 👋 About me
+
+I build backend systems: REST APIs, ingestion and scraping pipelines, and LLM-powered workflows that need to be fast, predictable and cheap to run.
+
+- 🎓 3rd year of Information Systems Engineering at **UTN FRRe** — *Beca Manuel Belgrano* recipient
+- ⚙️ **Backend AI Engineering Intern @ FlyRank AI** — completed the *AI Fluency* and *Backend AI Engineering* tracks: ingestion pipelines, LLM token-cost optimization, agentic workflows
+- 🌱 Every course turns into a project. Lately: an OS memory & CPU scheduling simulator, and idempotency / concurrency control for REST APIs
+- 🔍 Interested in: low-latency API design, concurrency, parsers & automata, relational modeling
+
+> 🇦🇷 Native Spanish speaker — most of my university projects are documented in Spanish.
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**CompetitorWatch API**](https://github.com/wolkowyski/competitor-watch-api) | Competitor catalog ingestion & pricing API: syncs 60 products in < 3 s with JWT auth, disk cache and polite scraping. *FlyRank capstone.* | FastAPI · SQLite · JWT |
+| [**Idempotency & Concurrency Demo**](https://github.com/wolkowyski/demo-idempotencia-concurrencia) | `Idempotency-Key` header (IETF draft) with request replay, plus pessimistic and optimistic locking to prevent double bookings under concurrent requests. | Java 21 · Spring Boot · PostgreSQL · Docker |
+| [**KernelFlow**](https://github.com/wolkowyski/KernelFlow-SO-Grupo15) | OS simulator: MVT memory with Best-Fit allocation and SRTF scheduling. Linux & Windows builds. | Python |
+| [**Linked Lists, step by step**](https://github.com/wolkowyski/listas-enlazadas-paso-a-paso) | Interactive visualizer for singly, doubly and circular linked lists with highlighted pseudocode. **[▶ Live demo](https://wolkowyski.github.io/listas-enlazadas-paso-a-paso/)** | JavaScript · HTML/CSS |
+| [**Inventario Electromisiones**](https://github.com/wolkowyski/inventario-electromisiones) | PrestaShop catalog extractor with Tkinter GUI, concurrent fetching and PDF/CSV export. | Python · Tkinter |
+| [**TPI SSL 2025**](https://github.com/wolkowyski/TPI-SSL-2025) | Lexical and syntactic analyzer (lexer + parser). | Python · PLY |
+
+---
+
+### 🛠️ Tech stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,cpp,bash,postgres,mysql,docker,linux,git&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,js,html,css,postgres,sqlite,mysql,docker,linux,bash,git&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
-* **Languages:** Python, SQL, C++, Bash
-* **Frameworks & Web:** FastAPI, Django, REST APIs, JSON Architecture
-* **Databases:** PostgreSQL, MySQL, SQLite, Relational Algebra
-* **DevOps & Environments:** Linux, Docker, Git, GitHub CLI
-* **Applied AI & Systems:** Model Context Protocol (MCP), RAG Workflows, Token/Context Window Optimization, Concurrency
+| | |
+|---|---|
+| **Languages** | Python, Java, SQL, JavaScript, Bash |
+| **Backend** | FastAPI, Django, Spring Boot, REST, JWT, Pydantic |
+| **Data** | PostgreSQL, SQLite, MySQL, relational modeling |
+| **Frontend basics** | HTML, CSS (Flexbox, Grid), vanilla JS |
+| **Infra & tools** | Linux, Docker, Git, GitHub CLI |
+| **Applied AI** | MCP (Model Context Protocol), RAG, token/context-window optimization |
 
 ---
 
-### ▸ GitHub Statistics
+### 📜 Education & certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolkowyski&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolkowyski&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false" height="160" alt="Top Languages" />
-</div>
+| | | |
+|---|---|---|
+| **Information Systems Engineering** (in progress, 3rd year) | UTN — Facultad Regional Resistencia | 2024 – present |
+| **Backend AI Engineering** & **AI Fluency** tracks | FlyRank AI | 2026 |
+| **Web Development** — Python, Django, SQL, OOP, functional programming (200 h) | Informatorio · Gobierno del Chaco | 2025 |
+| **Introduction to Programming** — HTML, CSS, Git & GitHub (56 h) | Informatorio · Gobierno del Chaco | 2025 |
+| **Yo puedo programar** (16 h) | Junior Achievement Argentina × Microsoft | 2023 |
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/wolkowyski">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:braianwolkowyski2005@gmail.com">Contact via Email</a>
+  <i>Open to backend opportunities — feel free to reach out.</i>
 </p>
