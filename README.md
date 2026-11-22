@@ -36,7 +36,7 @@ I build backend systems: REST APIs, ingestion and scraping pipelines, and LLM-po
 | [**Linked Lists, step by step**](https://github.com/wolkowyski/listas-enlazadas-paso-a-paso) | Interactive visualizer for singly, doubly and circular linked lists with highlighted pseudocode. **[▶ Live demo](https://wolkowyski.github.io/listas-enlazadas-paso-a-paso/)** | JavaScript · HTML/CSS |
 | [**Inventario Electromisiones**](https://github.com/wolkowyski/inventario-electromisiones) | PrestaShop catalog extractor with Tkinter GUI, concurrent fetching and PDF/CSV export. | Python · Tkinter |
 | [**TPI SSL 2025**](https://github.com/wolkowyski/TPI-SSL-2025) | Lexical and syntactic analyzer (lexer + parser). | Python · PLY |
-| [**La Conquista**](https://github.com/wolkowyski/la-conquista-pharo) | Territory-conquest trivia game with timed question duels and a Morphic menu. *Team project for Paradigmas de Programación.* | Pharo · Smalltalk |
+| [**La Conquista**](https://github.com/wolkowyski/la-conquista-pharo) | Territory-conquest trivia game with timed question duels and a Morphic menu. *Team project for Paradigmas de Programación.* **[⬇ Windows build](https://github.com/wolkowyski/la-conquista-pharo/releases/latest)** | Pharo · Smalltalk |
 
 ---
 
