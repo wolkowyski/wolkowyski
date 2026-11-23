@@ -37,6 +37,7 @@ I build backend systems: REST APIs, ingestion and scraping pipelines, and LLM-po
 | [**Inventario Electromisiones**](https://github.com/wolkowyski/inventario-electromisiones) | PrestaShop catalog extractor with Tkinter GUI, concurrent fetching and PDF/CSV export. | Python · Tkinter |
 | [**TPI SSL 2025**](https://github.com/wolkowyski/TPI-SSL-2025) | Lexical and syntactic analyzer (lexer + parser). | Python · PLY |
 | [**La Conquista**](https://github.com/wolkowyski/la-conquista-pharo) | Territory-conquest trivia game with timed question duels and a Morphic menu. *Team project for Paradigmas de Programación.* **[⬇ Windows build](https://github.com/wolkowyski/la-conquista-pharo/releases/latest)** | Pharo · Smalltalk |
+| [**Algoritmos y Estructuras de Datos**](https://github.com/wolkowyski/algoritmos-y-estructuras-de-datos) | Everything from my first-year algorithms course: the full exercise guide solved, midterms, finals, Pascal and C labs and study notes, reviewed and commented. | Pseudocode · Pascal · C |
 
 ---
 
